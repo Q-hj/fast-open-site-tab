@@ -14,6 +14,12 @@ const SITE_LIST = [
     icon: "🐙",
     color: "#f6f8fa",
   },
+  {
+    name: "GitHub",
+    url: "https://github.com/Q-hj",
+    icon: "🐱",
+    color: "#f6f8fa",
+  },
 ];
 
 /**
