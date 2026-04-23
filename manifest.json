@@ -3,7 +3,7 @@
   "name": "打开新标签页",
   "version": "1.0.0",
   "description": "点击扩展图标显示网站列表，快速打开常用网站",
-  "permissions": ["tabs"],
+  "permissions": ["tabs", "storage"],
   "action": {
     "default_title": "打开新标签页",
     "default_popup": "popup.html"
