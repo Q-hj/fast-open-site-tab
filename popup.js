@@ -20,6 +20,12 @@ const SITE_LIST = [
     icon: "🐱",
     color: "#f6f8fa",
   },
+  {
+    name: "拓展中心",
+    url: "edge://extensions/",
+    icon: "🧩",
+    color: "#38d9a9",
+  },
 ];
 
 /**
